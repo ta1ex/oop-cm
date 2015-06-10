@@ -1,0 +1,14 @@
+{
+  "description": "coffee mashine",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ta1ex7",
+      "email": "ta-lex@mail.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
